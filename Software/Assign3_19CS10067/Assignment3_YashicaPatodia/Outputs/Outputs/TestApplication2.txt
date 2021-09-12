@@ -1,0 +1,1693 @@
+-----------------------------------------Own Test Application ----------------------------------------------------------
+BOOKING SUCCEEDED:
+PNR Number = 1
+From Station = Mumbai
+To Station = Delhi
+Travel Date = 17/Mar/2017
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1497
+
+BOOKING SUCCEEDED:
+PNR Number = 2
+From Station = Mumbai
+To Station = Delhi
+Travel Date = 19/Jan/2016
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1316
+
+BOOKING SUCCEEDED:
+PNR Number = 3
+From Station = Mumbai
+To Station = Delhi
+Travel Date = 15/Feb/2011
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 954
+
+BOOKING SUCCEEDED:
+PNR Number = 4
+From Station = Mumbai
+To Station = Delhi
+Travel Date = 8/Jul/2023
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2776
+
+BOOKING SUCCEEDED:
+PNR Number = 5
+From Station = Mumbai
+To Station = Delhi
+Travel Date = 5/Aug/2019
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1809
+
+BOOKING SUCCEEDED:
+PNR Number = 6
+From Station = Mumbai
+To Station = Delhi
+Travel Date = 23/Dec/2025
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 362
+
+BOOKING SUCCEEDED:
+PNR Number = 7
+From Station = Mumbai
+To Station = Delhi
+Travel Date = 17/Aug/2017
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 724
+
+BOOKING SUCCEEDED:
+PNR Number = 8
+From Station = Mumbai
+To Station = Bangalore
+Travel Date = 20/Nov/2015
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1031
+
+BOOKING SUCCEEDED:
+PNR Number = 9
+From Station = Mumbai
+To Station = Bangalore
+Travel Date = Invalid Date
+
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 908
+
+BOOKING SUCCEEDED:
+PNR Number = 10
+From Station = Mumbai
+To Station = Bangalore
+Travel Date = 31/Nov/2013
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 663
+
+BOOKING SUCCEEDED:
+PNR Number = 11
+From Station = Mumbai
+To Station = Bangalore
+Travel Date = 22/Apr/2011
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1902
+
+BOOKING SUCCEEDED:
+PNR Number = 12
+From Station = Mumbai
+To Station = Bangalore
+Travel Date = 24/Dec/2021
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1226
+
+BOOKING SUCCEEDED:
+PNR Number = 13
+From Station = Mumbai
+To Station = Bangalore
+Travel Date = 10/Jun/2018
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 245
+
+BOOKING SUCCEEDED:
+PNR Number = 14
+From Station = Mumbai
+To Station = Bangalore
+Travel Date = 10/Dec/2019
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 491
+
+BOOKING SUCCEEDED:
+PNR Number = 15
+From Station = Mumbai
+To Station = Kolkata
+Travel Date = 17/Apr/2019
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 2064
+
+BOOKING SUCCEEDED:
+PNR Number = 16
+From Station = Mumbai
+To Station = Kolkata
+Travel Date = 14/Jan/2018
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1812
+
+BOOKING SUCCEEDED:
+PNR Number = 17
+From Station = Mumbai
+To Station = Kolkata
+Travel Date = 28/Jul/2020
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1309
+
+BOOKING SUCCEEDED:
+PNR Number = 18
+From Station = Mumbai
+To Station = Kolkata
+Travel Date = 20/Apr/2010
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 3839
+
+BOOKING SUCCEEDED:
+PNR Number = 19
+From Station = Mumbai
+To Station = Kolkata
+Travel Date = Invalid Date
+
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2518
+
+BOOKING SUCCEEDED:
+PNR Number = 20
+From Station = Mumbai
+To Station = Kolkata
+Travel Date = 3/Dec/2021
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 504
+
+BOOKING SUCCEEDED:
+PNR Number = 21
+From Station = Mumbai
+To Station = Kolkata
+Travel Date = 18/Feb/2015
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1007
+
+BOOKING SUCCEEDED:
+PNR Number = 22
+From Station = Mumbai
+To Station = Chennai
+Travel Date = 10/Jun/2025
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1388
+
+BOOKING SUCCEEDED:
+PNR Number = 23
+From Station = Mumbai
+To Station = Chennai
+Travel Date = 15/Jan/2017
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1221
+
+BOOKING SUCCEEDED:
+PNR Number = 24
+From Station = Mumbai
+To Station = Chennai
+Travel Date = 23/Dec/2025
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 886
+
+BOOKING SUCCEEDED:
+PNR Number = 25
+From Station = Mumbai
+To Station = Chennai
+Travel Date = 15/Oct/2010
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2571
+
+BOOKING SUCCEEDED:
+PNR Number = 26
+From Station = Mumbai
+To Station = Chennai
+Travel Date = 2/Aug/2013
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1673
+
+BOOKING SUCCEEDED:
+PNR Number = 27
+From Station = Mumbai
+To Station = Chennai
+Travel Date = 11/Jun/2022
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 335
+
+BOOKING SUCCEEDED:
+PNR Number = 28
+From Station = Mumbai
+To Station = Chennai
+Travel Date = 13/Jun/2017
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 669
+
+BOOKING SUCCEEDED:
+PNR Number = 29
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 21/Oct/2016
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1497
+
+BOOKING SUCCEEDED:
+PNR Number = 30
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 29/Sep/2024
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1316
+
+BOOKING SUCCEEDED:
+PNR Number = 31
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 5/Apr/2019
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 954
+
+BOOKING SUCCEEDED:
+PNR Number = 32
+From Station = Delhi
+To Station = Mumbai
+Travel Date = Invalid Date
+
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2776
+
+BOOKING SUCCEEDED:
+PNR Number = 33
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 28/Jul/2019
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1809
+
+BOOKING SUCCEEDED:
+PNR Number = 34
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 6/Dec/2019
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 362
+
+BOOKING SUCCEEDED:
+PNR Number = 35
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 29/Mar/2010
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 724
+
+BOOKING SUCCEEDED:
+PNR Number = 36
+From Station = Delhi
+To Station = Bangalore
+Travel Date = 27/May/2025
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 2200
+
+BOOKING SUCCEEDED:
+PNR Number = 37
+From Station = Delhi
+To Station = Bangalore
+Travel Date = 13/Mar/2024
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1931
+
+BOOKING SUCCEEDED:
+PNR Number = 38
+From Station = Delhi
+To Station = Bangalore
+Travel Date = 21/Jul/2020
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1394
+
+BOOKING SUCCEEDED:
+PNR Number = 39
+From Station = Delhi
+To Station = Bangalore
+Travel Date = 19/Apr/2022
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 4094
+
+BOOKING SUCCEEDED:
+PNR Number = 40
+From Station = Delhi
+To Station = Bangalore
+Travel Date = 14/Jun/2025
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2688
+
+BOOKING SUCCEEDED:
+PNR Number = 41
+From Station = Delhi
+To Station = Bangalore
+Travel Date = 14/Mar/2017
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 538
+
+BOOKING SUCCEEDED:
+PNR Number = 42
+From Station = Delhi
+To Station = Bangalore
+Travel Date = 17/Sep/2024
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1075
+
+BOOKING SUCCEEDED:
+PNR Number = 43
+From Station = Delhi
+To Station = Kolkata
+Travel Date = 25/Jan/2011
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1522
+
+BOOKING SUCCEEDED:
+PNR Number = 44
+From Station = Delhi
+To Station = Kolkata
+Travel Date = 26/Nov/2025
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1338
+
+BOOKING SUCCEEDED:
+PNR Number = 45
+From Station = Delhi
+To Station = Kolkata
+Travel Date = 27/May/2012
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 970
+
+BOOKING SUCCEEDED:
+PNR Number = 46
+From Station = Delhi
+To Station = Kolkata
+Travel Date = 20/Jul/2021
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2823
+
+BOOKING SUCCEEDED:
+PNR Number = 47
+From Station = Delhi
+To Station = Kolkata
+Travel Date = 30/Jul/2019
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1840
+
+BOOKING SUCCEEDED:
+PNR Number = 48
+From Station = Delhi
+To Station = Kolkata
+Travel Date = Invalid Date
+
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 368
+
+BOOKING SUCCEEDED:
+PNR Number = 49
+From Station = Delhi
+To Station = Kolkata
+Travel Date = 18/Mar/2013
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 736
+
+BOOKING SUCCEEDED:
+PNR Number = 50
+From Station = Delhi
+To Station = Chennai
+Travel Date = 26/Nov/2022
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 2230
+
+BOOKING SUCCEEDED:
+PNR Number = 51
+From Station = Delhi
+To Station = Chennai
+Travel Date = 29/Mar/2015
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1958
+
+BOOKING SUCCEEDED:
+PNR Number = 52
+From Station = Delhi
+To Station = Chennai
+Travel Date = 21/Aug/2020
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1413
+
+BOOKING SUCCEEDED:
+PNR Number = 53
+From Station = Delhi
+To Station = Chennai
+Travel Date = 23/Sep/2015
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 4150
+
+BOOKING SUCCEEDED:
+PNR Number = 54
+From Station = Delhi
+To Station = Chennai
+Travel Date = 14/Jun/2011
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2725
+
+BOOKING SUCCEEDED:
+PNR Number = 55
+From Station = Delhi
+To Station = Chennai
+Travel Date = 25/Oct/2019
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 545
+
+BOOKING SUCCEEDED:
+PNR Number = 56
+From Station = Delhi
+To Station = Chennai
+Travel Date = 5/Nov/2018
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1090
+
+BOOKING SUCCEEDED:
+PNR Number = 57
+From Station = Bangalore
+To Station = Mumbai
+Travel Date = 18/Sep/2022
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1031
+
+BOOKING SUCCEEDED:
+PNR Number = 58
+From Station = Bangalore
+To Station = Mumbai
+Travel Date = 6/Apr/2024
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 908
+
+BOOKING SUCCEEDED:
+PNR Number = 59
+From Station = Bangalore
+To Station = Mumbai
+Travel Date = 19/Dec/2012
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 663
+
+BOOKING SUCCEEDED:
+PNR Number = 60
+From Station = Bangalore
+To Station = Mumbai
+Travel Date = 17/Sep/2020
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1902
+
+BOOKING SUCCEEDED:
+PNR Number = 61
+From Station = Bangalore
+To Station = Mumbai
+Travel Date = 4/May/2011
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1226
+
+BOOKING SUCCEEDED:
+PNR Number = 62
+From Station = Bangalore
+To Station = Mumbai
+Travel Date = 13/Oct/2023
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 245
+
+BOOKING SUCCEEDED:
+PNR Number = 63
+From Station = Bangalore
+To Station = Mumbai
+Travel Date = 6/Oct/2019
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 491
+
+BOOKING SUCCEEDED:
+PNR Number = 64
+From Station = Bangalore
+To Station = Delhi
+Travel Date = 8/Apr/2021
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 2200
+
+BOOKING SUCCEEDED:
+PNR Number = 65
+From Station = Bangalore
+To Station = Delhi
+Travel Date = 29/Jan/2011
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1931
+
+BOOKING SUCCEEDED:
+PNR Number = 66
+From Station = Bangalore
+To Station = Delhi
+Travel Date = Invalid Date
+
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1394
+
+BOOKING SUCCEEDED:
+PNR Number = 67
+From Station = Bangalore
+To Station = Delhi
+Travel Date = 6/Nov/2017
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 4094
+
+BOOKING SUCCEEDED:
+PNR Number = 68
+From Station = Bangalore
+To Station = Delhi
+Travel Date = 24/May/2013
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2688
+
+BOOKING SUCCEEDED:
+PNR Number = 69
+From Station = Bangalore
+To Station = Delhi
+Travel Date = 24/Jul/2023
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 538
+
+BOOKING SUCCEEDED:
+PNR Number = 70
+From Station = Bangalore
+To Station = Delhi
+Travel Date = 10/Jan/2024
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1075
+
+BOOKING SUCCEEDED:
+PNR Number = 71
+From Station = Bangalore
+To Station = Kolkata
+Travel Date = 24/Dec/2017
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1921
+
+BOOKING SUCCEEDED:
+PNR Number = 72
+From Station = Bangalore
+To Station = Kolkata
+Travel Date = 3/Dec/2018
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1687
+
+BOOKING SUCCEEDED:
+PNR Number = 73
+From Station = Bangalore
+To Station = Kolkata
+Travel Date = 11/Apr/2014
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1219
+
+BOOKING SUCCEEDED:
+PNR Number = 74
+From Station = Bangalore
+To Station = Kolkata
+Travel Date = 8/Nov/2015
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 3571
+
+BOOKING SUCCEEDED:
+PNR Number = 75
+From Station = Bangalore
+To Station = Kolkata
+Travel Date = 28/Aug/2021
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2339
+
+BOOKING SUCCEEDED:
+PNR Number = 76
+From Station = Bangalore
+To Station = Kolkata
+Travel Date = 15/Sep/2024
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 468
+
+BOOKING SUCCEEDED:
+PNR Number = 77
+From Station = Bangalore
+To Station = Kolkata
+Travel Date = 24/Jun/2011
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 936
+
+BOOKING SUCCEEDED:
+PNR Number = 78
+From Station = Bangalore
+To Station = Chennai
+Travel Date = 12/Jul/2025
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 400
+
+BOOKING SUCCEEDED:
+PNR Number = 79
+From Station = Bangalore
+To Station = Chennai
+Travel Date = 22/May/2017
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 356
+
+BOOKING SUCCEEDED:
+PNR Number = 80
+From Station = Bangalore
+To Station = Chennai
+Travel Date = 12/Aug/2012
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 269
+
+BOOKING SUCCEEDED:
+PNR Number = 81
+From Station = Bangalore
+To Station = Chennai
+Travel Date = 6/Nov/2024
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 719
+
+BOOKING SUCCEEDED:
+PNR Number = 82
+From Station = Bangalore
+To Station = Chennai
+Travel Date = 27/Feb/2018
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 438
+
+BOOKING SUCCEEDED:
+PNR Number = 83
+From Station = Bangalore
+To Station = Chennai
+Travel Date = Invalid Date
+
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 88
+
+BOOKING SUCCEEDED:
+PNR Number = 84
+From Station = Bangalore
+To Station = Chennai
+Travel Date = 7/May/2015
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 175
+
+BOOKING SUCCEEDED:
+PNR Number = 85
+From Station = Kolkata
+To Station = Mumbai
+Travel Date = 29/Nov/2016
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 2064
+
+BOOKING SUCCEEDED:
+PNR Number = 86
+From Station = Kolkata
+To Station = Mumbai
+Travel Date = Invalid Date
+
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1812
+
+BOOKING SUCCEEDED:
+PNR Number = 87
+From Station = Kolkata
+To Station = Mumbai
+Travel Date = 8/Oct/2024
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1309
+
+BOOKING SUCCEEDED:
+PNR Number = 88
+From Station = Kolkata
+To Station = Mumbai
+Travel Date = 24/Jul/2024
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 3839
+
+BOOKING SUCCEEDED:
+PNR Number = 89
+From Station = Kolkata
+To Station = Mumbai
+Travel Date = 6/May/2024
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2518
+
+BOOKING SUCCEEDED:
+PNR Number = 90
+From Station = Kolkata
+To Station = Mumbai
+Travel Date = 3/Sep/2020
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 504
+
+BOOKING SUCCEEDED:
+PNR Number = 91
+From Station = Kolkata
+To Station = Mumbai
+Travel Date = 26/Jan/2010
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1007
+
+BOOKING SUCCEEDED:
+PNR Number = 92
+From Station = Kolkata
+To Station = Delhi
+Travel Date = 26/Apr/2019
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1522
+
+BOOKING SUCCEEDED:
+PNR Number = 93
+From Station = Kolkata
+To Station = Delhi
+Travel Date = 30/Dec/2017
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1338
+
+BOOKING SUCCEEDED:
+PNR Number = 94
+From Station = Kolkata
+To Station = Delhi
+Travel Date = 24/Jun/2018
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 970
+
+BOOKING SUCCEEDED:
+PNR Number = 95
+From Station = Kolkata
+To Station = Delhi
+Travel Date = 15/Mar/2016
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2823
+
+BOOKING SUCCEEDED:
+PNR Number = 96
+From Station = Kolkata
+To Station = Delhi
+Travel Date = 1/Nov/2021
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1840
+
+BOOKING SUCCEEDED:
+PNR Number = 97
+From Station = Kolkata
+To Station = Delhi
+Travel Date = 19/Sep/2022
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 368
+
+BOOKING SUCCEEDED:
+PNR Number = 98
+From Station = Kolkata
+To Station = Delhi
+Travel Date = 15/Aug/2014
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 736
+
+BOOKING SUCCEEDED:
+PNR Number = 99
+From Station = Kolkata
+To Station = Bangalore
+Travel Date = 19/May/2023
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1921
+
+BOOKING SUCCEEDED:
+PNR Number = 100
+From Station = Kolkata
+To Station = Bangalore
+Travel Date = 22/Oct/2024
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1687
+
+BOOKING SUCCEEDED:
+PNR Number = 101
+From Station = Kolkata
+To Station = Bangalore
+Travel Date = 21/Sep/2025
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1219
+
+BOOKING SUCCEEDED:
+PNR Number = 102
+From Station = Kolkata
+To Station = Bangalore
+Travel Date = 13/Sep/2024
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 3571
+
+BOOKING SUCCEEDED:
+PNR Number = 103
+From Station = Kolkata
+To Station = Bangalore
+Travel Date = 13/Dec/2024
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2339
+
+BOOKING SUCCEEDED:
+PNR Number = 104
+From Station = Kolkata
+To Station = Bangalore
+Travel Date = 2/Jun/2017
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 468
+
+BOOKING SUCCEEDED:
+PNR Number = 105
+From Station = Kolkata
+To Station = Bangalore
+Travel Date = 20/Aug/2010
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 936
+
+BOOKING SUCCEEDED:
+PNR Number = 106
+From Station = Kolkata
+To Station = Chennai
+Travel Date = 16/Sep/2025
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1709
+
+BOOKING SUCCEEDED:
+PNR Number = 107
+From Station = Kolkata
+To Station = Chennai
+Travel Date = 15/Dec/2021
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1502
+
+BOOKING SUCCEEDED:
+PNR Number = 108
+From Station = Kolkata
+To Station = Chennai
+Travel Date = 18/Jan/2011
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1087
+
+BOOKING SUCCEEDED:
+PNR Number = 109
+From Station = Kolkata
+To Station = Chennai
+Travel Date = Invalid Date
+
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 3173
+
+BOOKING SUCCEEDED:
+PNR Number = 110
+From Station = Kolkata
+To Station = Chennai
+Travel Date = 10/Oct/2024
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2074
+
+BOOKING SUCCEEDED:
+PNR Number = 111
+From Station = Kolkata
+To Station = Chennai
+Travel Date = 17/Nov/2019
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 415
+
+BOOKING SUCCEEDED:
+PNR Number = 112
+From Station = Kolkata
+To Station = Chennai
+Travel Date = Invalid Date
+
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 830
+
+BOOKING SUCCEEDED:
+PNR Number = 113
+From Station = Chennai
+To Station = Mumbai
+Travel Date = 3/Jun/2017
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1388
+
+BOOKING SUCCEEDED:
+PNR Number = 114
+From Station = Chennai
+To Station = Mumbai
+Travel Date = 14/May/2015
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1221
+
+BOOKING SUCCEEDED:
+PNR Number = 115
+From Station = Chennai
+To Station = Mumbai
+Travel Date = 31/Jan/2015
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 886
+
+BOOKING SUCCEEDED:
+PNR Number = 116
+From Station = Chennai
+To Station = Mumbai
+Travel Date = 17/Feb/2021
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2571
+
+BOOKING SUCCEEDED:
+PNR Number = 117
+From Station = Chennai
+To Station = Mumbai
+Travel Date = 27/Jul/2021
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 1673
+
+BOOKING SUCCEEDED:
+PNR Number = 118
+From Station = Chennai
+To Station = Mumbai
+Travel Date = 28/Nov/2024
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 335
+
+BOOKING SUCCEEDED:
+PNR Number = 119
+From Station = Chennai
+To Station = Mumbai
+Travel Date = Invalid Date
+
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 669
+
+BOOKING SUCCEEDED:
+PNR Number = 120
+From Station = Chennai
+To Station = Delhi
+Travel Date = 18/Jul/2023
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 2230
+
+BOOKING SUCCEEDED:
+PNR Number = 121
+From Station = Chennai
+To Station = Delhi
+Travel Date = 11/Jan/2011
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1958
+
+BOOKING SUCCEEDED:
+PNR Number = 122
+From Station = Chennai
+To Station = Delhi
+Travel Date = Invalid Date
+
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1413
+
+BOOKING SUCCEEDED:
+PNR Number = 123
+From Station = Chennai
+To Station = Delhi
+Travel Date = 24/Jun/2025
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 4150
+
+BOOKING SUCCEEDED:
+PNR Number = 124
+From Station = Chennai
+To Station = Delhi
+Travel Date = 14/Jun/2013
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2725
+
+BOOKING SUCCEEDED:
+PNR Number = 125
+From Station = Chennai
+To Station = Delhi
+Travel Date = 30/Sep/2024
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 545
+
+BOOKING SUCCEEDED:
+PNR Number = 126
+From Station = Chennai
+To Station = Delhi
+Travel Date = 25/Jul/2014
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1090
+
+BOOKING SUCCEEDED:
+PNR Number = 127
+From Station = Chennai
+To Station = Bangalore
+Travel Date = Invalid Date
+
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 400
+
+BOOKING SUCCEEDED:
+PNR Number = 128
+From Station = Chennai
+To Station = Bangalore
+Travel Date = 23/Sep/2010
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 356
+
+BOOKING SUCCEEDED:
+PNR Number = 129
+From Station = Chennai
+To Station = Bangalore
+Travel Date = 31/Sep/2018
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 269
+
+BOOKING SUCCEEDED:
+PNR Number = 130
+From Station = Chennai
+To Station = Bangalore
+Travel Date = 25/Sep/2024
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 719
+
+BOOKING SUCCEEDED:
+PNR Number = 131
+From Station = Chennai
+To Station = Bangalore
+Travel Date = 9/Nov/2023
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 438
+
+BOOKING SUCCEEDED:
+PNR Number = 132
+From Station = Chennai
+To Station = Bangalore
+Travel Date = 30/Aug/2022
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 88
+
+BOOKING SUCCEEDED:
+PNR Number = 133
+From Station = Chennai
+To Station = Bangalore
+Travel Date = 1/Sep/2021
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 175
+
+BOOKING SUCCEEDED:
+PNR Number = 134
+From Station = Chennai
+To Station = Kolkata
+Travel Date = 29/Sep/2017
+Travel Class = AC 2Tier Class(2A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: No
+Fare: 1709
+
+BOOKING SUCCEEDED:
+PNR Number = 135
+From Station = Chennai
+To Station = Kolkata
+Travel Date = 4/Jan/2019
+Travel Class = AC 3Tier Class(3A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 1502
+
+BOOKING SUCCEEDED:
+PNR Number = 136
+From Station = Chennai
+To Station = Kolkata
+Travel Date = 16/Dec/2023
+Travel Class = AC Chair Car Class(CC)
+  : Mode: Sitting
+  : Comfort: AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 1087
+
+BOOKING SUCCEEDED:
+PNR Number = 137
+From Station = Chennai
+To Station = Kolkata
+Travel Date = 8/Oct/2025
+Travel Class = AC First Class(1A)
+  : Mode: Sleeping
+  : Comfort: AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 3173
+
+BOOKING SUCCEEDED:
+PNR Number = 138
+From Station = Chennai
+To Station = Kolkata
+Travel Date = 13/Jan/2016
+Travel Class = First Class(FC)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 2
+  : Luxury: Yes
+Fare: 2074
+
+BOOKING SUCCEEDED:
+PNR Number = 139
+From Station = Chennai
+To Station = Kolkata
+Travel Date = 14/Dec/2015
+Travel Class = SecondSitting Class(2S)
+  : Mode: Sitting
+  : Comfort: Non-AC
+  : Bunks: 0
+  : Luxury: No
+Fare: 415
+
+BOOKING SUCCEEDED:
+PNR Number = 140
+From Station = Chennai
+To Station = Kolkata
+Travel Date = 27/Nov/2025
+Travel Class = Sleeper Class(SL)
+  : Mode: Sleeping
+  : Comfort: Non-AC
+  : Bunks: 3
+  : Luxury: No
+Fare: 830
+
